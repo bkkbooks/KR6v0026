@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6v0026/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0026/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨名經集解關中疏卷上
+  identifiers:
+    krp: KR6v0026
+    cbeta: ZW02n0019
+    cbeta_old_id: ZW02n0019
+    authorityid: CA0008393
+    json_key: ZW0019
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW02/ZW02n0019.xml
+    old_id: ZW02n0019
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0026_000-ZW.yaml, hash: 'sha256:86dd1f8fdd114d1c97cdb95c88e003481d74428721ec67584ae173d92081ec0b'}
+  - {seq: 1, filename: KR6v0026_001-ZW.yaml, hash: 'sha256:c4bfdfe8d613ee6a723e7d5c830e8c84e11178a3e3c8b56cc128bacdb10e4233'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0026_000-ZW.markers.yaml, hash: 'sha256:cf3874025eab9eac7911e2be251f6e508a4e07377b54c2f1aa60ea85aa50edbc'}
+  - {seq: 1, role: markers, filename: assets/KR6v0026_001-ZW.markers.yaml, hash: 'sha256:0a45209703d88c0366f6a471c792bae3a131eb68189d02ae223835f5c05a53da'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0026_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0026_ZW_000-mulu-2
+    span:
+    - front
+    - 594
+    - 594
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 42139
+  label: 淨名經集解關中疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 前序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-mulu-2
+    span:
+    - body
+    - 257
+    - 257
+  label: 維摩詰經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-mulu-3
+    span:
+    - body
+    - 1827
+    - 1827
+  label: 佛國品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-mulu-4
+    span:
+    - body
+    - 14801
+    - 14801
+  label: 方便品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-mulu-5
+    span:
+    - body
+    - 19001
+    - 19001
+  label: 弟子品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0026_ZW_001-mulu-6
+    span:
+    - body
+    - 32622
+    - 32622
+  label: 菩薩品第四
+  type: mulu
+  level: 1
+hash: sha256:6d591be66fb1af0dbb0eb5b99d936cd8a0eadff13f89875bd4cf308df1e7f687
