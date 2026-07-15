@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0026/v1
 canonical_location: https://kanripo.org/bkk/KR6v0026/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 淨名經集解關中疏卷上
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0026_000.yaml, hash: 'sha256:86dd1f8fdd114d1c97cdb95c88e003481d74428721ec67584ae173d92081ec0b'}
-  - {seq: 1, filename: KR6v0026_001.yaml, hash: 'sha256:c4bfdfe8d613ee6a723e7d5c830e8c84e11178a3e3c8b56cc128bacdb10e4233'}
+  - {seq: 0, filename: KR6v0026_000.yaml, hash: 'sha256:fbd02da1d5c8286c3f016e887ca0342953b8c3dd8da9c7fecf1cc318246ad7be'}
+  - {seq: 1, filename: KR6v0026_001.yaml, hash: 'sha256:cfdc6d41790e500dd2418b333e771f7a03ff6cce6251a7e182a6651926948c3d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0026_000.markers.yaml, hash: 'sha256:101443d159d28570a5f9ddd60a5772d9e11571541715866316f5b730e0df500c'}
-  - {seq: 1, role: markers, filename: assets/KR6v0026_001.markers.yaml, hash: 'sha256:33d694f54941ad24237bf3ce69d745544ac0c0e0eea18624d2b37ef4853e6920'}
+  - {seq: 0, role: markers, filename: assets/KR6v0026_000.markers.yaml, hash: 'sha256:c95b93af8c5efbb39f91e19bb47915c01d00cd21c1dde68c8286452929470b0c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0026_001.markers.yaml, hash: 'sha256:bff13d500f840d0b3af0c45b6ed85976169cd6d31956c02fb98e934968570dd7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -117,4 +117,7 @@ table_of_contents:
   label: 菩薩品第四
   type: mulu
   level: 1
-hash: sha256:ff55dc42c0ae6456d6c201505bb0dd0601d9d3d8f301cd16412f037ee4123023
+hash: sha256:5afd339effc9738f67cf4fe918915aacb1cfcb4f3cbe2273c23a0e2a80ac94e8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
