@@ -21,17 +21,17 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0026_000.yaml, hash: 'sha256:fbd02da1d5c8286c3f016e887ca0342953b8c3dd8da9c7fecf1cc318246ad7be'}
+  - {seq: 0, filename: KR6v0026_000.yaml, hash: 'sha256:61de98623a37bbf4697a9960db17b8286db65bee2fd1ac37ec65d93f20351253'}
   - {seq: 1, filename: KR6v0026_001.yaml, hash: 'sha256:cfdc6d41790e500dd2418b333e771f7a03ff6cce6251a7e182a6651926948c3d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0026_000.markers.yaml, hash: 'sha256:c95b93af8c5efbb39f91e19bb47915c01d00cd21c1dde68c8286452929470b0c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0026_000.markers.yaml, hash: 'sha256:137415c0286f59e749624339664c830417d3e2fb9ef4c6327c6368ce13eaa681'}
   - {seq: 1, role: markers, filename: assets/KR6v0026_001.markers.yaml, hash: 'sha256:bff13d500f840d0b3af0c45b6ed85976169cd6d31956c02fb98e934968570dd7'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0026_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0026_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 594
     - 594
   label: 錄文
@@ -117,7 +117,7 @@ table_of_contents:
   label: 菩薩品第四
   type: mulu
   level: 1
-hash: sha256:5afd339effc9738f67cf4fe918915aacb1cfcb4f3cbe2273c23a0e2a80ac94e8
+hash: sha256:63aba8ce06809f5b49d1c31195c502f87727b887bc8f8233c6e6554714faf998
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
